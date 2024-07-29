@@ -22,9 +22,24 @@ Una vez creado el repositorio se debe de iniciar el **Codespaces**
 
 - Seleccione la opcion marcada como **Code** -> **Create Codespaces On Main**
 - Esto deberia abrir una pestaña adicional con el **Codespaces** abierto listo para comenzar a hacer codigo.
-- ![repo](../assets/images/repo.png)
-- ![repo2](../assets/images/repo2.png)
+![repo](../assets/images/repo.png)
+![repo2](../assets/images/repo2.png)
 
 
 ## 4. Instale sus extensiones y comience a escribir codigo.
 Configure su **Codespace* y comience a escribir codigo como hace habitualmente
+
+- Al escribir codigo se comenzaran a acumular **numeros** en un contador a su izquierda, eso significa la cantidad de cambios que tiene este documento respecto al guardado en github.
+![codespaces](../assets/images/codespaces1.png)
+
+- **IMPORTANTE** no olvidar escribir un mensaje dentro del recuadro antes de darle 'Click' a **commit**.
+![codespaces2](../assets/images/codespaces2.png)
+
+- Una vez terminado ese paso confirmar el paso siguiente:
+![codespaces3](../assets/images/codespaces3.png)
+
+- Se le solicitada sincronizar los cambios con su repositorio de github.
+![codespaces4](../assets/images/codespaces4.png)
+
+- Al confirmar la sincronizacion su repositorio de github contara con los cambios realizados dentro del **Codespaces* y usted estara al dia en su proyecto.
+![codespaces5](../assets/images/codespaces5.png)
